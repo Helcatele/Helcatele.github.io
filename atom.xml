@@ -2,18 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://helcatele.github.io/</id>
     <title>雾隐晨星</title>
-    <updated>2019-08-02T18:39:38.352Z</updated>
+    <updated>2020-08-02T16:00:26.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://helcatele.github.io/"/>
-    <link rel="self" href="https://helcatele.github.io//atom.xml"/>
+    <link rel="self" href="https://helcatele.github.io/atom.xml"/>
     <subtitle>生年不满百，常怀千岁忧。昼短苦夜长，何不秉烛游。</subtitle>
-    <logo>https://helcatele.github.io//images/avatar.png</logo>
-    <icon>https://helcatele.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 雾隐晨星</rights>
+    <logo>https://helcatele.github.io/images/avatar.png</logo>
+    <icon>https://helcatele.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 雾隐晨星</rights>
+    <entry>
+        <title type="html"><![CDATA[不要相信自己]]></title>
+        <id>https://helcatele.github.io/post/bu-yao-xiang-xin-zi-ji/</id>
+        <link href="https://helcatele.github.io/post/bu-yao-xiang-xin-zi-ji/">
+        </link>
+        <updated>2020-08-02T15:54:41.000Z</updated>
+        <content type="html"><![CDATA[<p>不要、不要相信自己，青年幻想家啊，<br>
+要当心灵感，就象当心溃疡……<br>
+它只是你那病痼的心灵的沉重的梦吃，<br>
+或是那被俘获的思想的激荡。<br>
+不必在灵感中枉然地寻求天国的音讯—<br>
+那是血液沸腾，力量的过剩！<br>
+快快地泼掉你那一杯含有鸠毒的美酒，<br>
+在烦恼中消磨掉自己的生命！</p>
+<p>如果你在一个期待已久的奇妙的瞬间<br>
+在你那早已沉静的心中发现<br>
+那充满纯真同时又充满甜蜜的声响的、<br>
+一股神秘不解的处女的清泉，—<br>
+不要去倾听它们，也不要沉湎于它们，<br>
+给它们投上一袭忘怀的外衣:<br>
+用节奏均匀的诗句与冰冷彻骨的语言<br>
+也无法表达它们微妙的意义。</p>
+<p>如果悲哀一旦潜入了你的心灵的深处，<br>
+痛苦如果要带着风雨访间你，<br>
+这时候决不要陪伴着你的急躁的女友<br>
+去参加人们那些喧闹的宴席;<br>
+不要去那里辱没自己。有时贩卖愤怒、<br>
+有时贩卖屈从的顺服的哀思、，<br>
+而对那极端淳朴忠厚的人高傲地展示<br>
+心灵创伤的脓血，那真可耻。</p>
+<p>你曾痛苦过或不曾痛苦，与我们何干?<br>
+我们干吗要知道你那些激动、<br>
+你那年青时最原始单纯的愚蠢的希望<br>
+和那理智的怒气冲冲的悔恨?<br>
+你看哪：人群都从你面前悠悠荡荡地<br>
+经由那惯常的道路走了过去，<br>
+快乐的面孔上看不见什么纵横的涕泪，<br>
+只微微露出一点烦恼的痕迹。</p>
+<p>可是在这些人中间很难找得出一个人，<br>
+他的额头还没有刻划出皱纹，<br>
+虽没有犯过罪，也没有遭到什么不幸，<br>
+苦难的考验没使他精神委顿!……，<br>
+相信吧:你的痛哭、谴责和那烂熟的<br>
+悠扬声调，他们只觉得好笑，<br>
+正好象悲剧演员，他满脸抹上了胭脂，<br>
+还在挥动着马粪纸做的枪刀……<br>
+(米哈伊尔•尤里耶维奇•莱蒙托夫 一八三九年)<br>
+余振译</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://helcatele.github.io//post/hello-gridea</id>
-        <link href="https://helcatele.github.io//post/hello-gridea">
+        <id>https://helcatele.github.io/post/hello-gridea/</id>
+        <link href="https://helcatele.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
